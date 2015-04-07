@@ -10,6 +10,14 @@
    box-sizing: border-box;
 }
 
+*{
+   font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+   text-align: right;
+}
+
 @media only screen and (max-width: 500px) {
    p {
       background-color: blue;
